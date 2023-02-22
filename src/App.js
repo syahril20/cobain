@@ -1,10 +1,13 @@
 import './App.css';
+import Body from './Page/Body';
 
-function App() {
-  return (
+const App = () => {
+  return(
     <div>
-      
+      <Body/>
+      <h1>Anjay</h1>
     </div>
+    
   );
 }
 
