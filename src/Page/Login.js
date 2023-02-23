@@ -12,7 +12,9 @@ const Login = () => {
                 <div className='text'>
                     <p>Login</p>
                     <div>
-                        <i className="fa-solid fa-user icon"></i>
+                        <div className='fa-solid fa-user icon'>
+                            
+                        </div>
                         <input type={'text'} className='textBox' id='Username'></input>
                     </div>
                     <input type={'password'} className='textBox' id='Password'></input><br />
