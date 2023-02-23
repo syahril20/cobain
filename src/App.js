@@ -1,13 +1,14 @@
 import './App.css';
-import Body from './Page/Body';
+// import Body from './Page/Body';
+import Login from './Page/Login';
+import'./Page/Login.css';
 
 const App = () => {
   return(
     <div>
-      <Body/>
-      <h1>Anjay</h1>
+      <div></div>
+      <Login/>
     </div>
-    
   );
 }
 

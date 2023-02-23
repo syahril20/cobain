@@ -2,8 +2,10 @@ import './Body.css';
 
 const Body = () => {
     return(
-        <div class='drops'>
-            <div class='drop'></div>
+        <div>
+        <div>
+        </div>
+            <div class='drop text'><h1>Mamah</h1></div>
         </div>
     );  
 } 
